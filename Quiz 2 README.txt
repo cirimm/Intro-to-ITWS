@@ -1,0 +1,1 @@
+All files located under the "website" folder. Document located in the Quiz 2 folder inside the website folder.
