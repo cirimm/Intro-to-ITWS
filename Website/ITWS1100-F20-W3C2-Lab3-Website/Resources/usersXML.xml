@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loginforms>
+    <currentuser>
+        <userid></userid>
+    </currentuser>
+
+    <user>
+        <userid>cirimm</userid>
+        <password>password</password>
+    </user>
+
+    <user>
+        <userid>user2</userid>
+        <password>password2</password>
+    </user>
+
+    <user>
+        <userid>user3</userid>
+        <password>password3</password>
+    </user>
+</loginforms>

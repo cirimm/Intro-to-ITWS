@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Example Feed</title>
+	<subtitle>A subtitle.</subtitle>
+	<link href="http://example.org/feed/" rel="self" />
+	<link href="http://example.org/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2003-12-13T18:30:02Z</updated>
+	<author>
+		<name>John Doe</name>
+		<email>johndoe@example.com</email>
+	</author>
+ 
+	<entry>
+		<title>Masks</title>
+		<link href="https://xkcd.com/2367/" rel="alternate"/>
+		<updated>2020-10-02T00:00:00Z</updated>
+		<id>https://xkcd.com/2367/</id>
+		<summary type="html">
+		<![CDATA[<img src="https://imgs.xkcd.com/comics/masks.png" title="Haunted Halloween masks from a mysterious costume shop that turn you evil 
+		and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests." 
+		alt="Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly 
+		high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests." />]]></summary>
+	</entry>
+
+
+	<entry>
+		<title>
+		<![CDATA[ Climate Change and Hunger ]]>
+		</title>
+		<link type="text/html" href="https://www.globalhungerindex.org/issues-in-focus/2019.html"/>
+		<id>urn:uuid:88478868-e7fe-24c2-9bd0-e3b5be749d66</id>
+		<updated>2019-10-15T09:01:00+00:00</updated>
+		<summary type="html">
+		<![CDATA[ <img style="margin:5px; float:left;" src="https://www.globalhungerindex.org/media/images/articles/essay_thumb.jpg" alt="Issues in Focus" />
+		 <p>Human actions have created a world in which it is becoming ever more difficult to adequately and sustainably feed and nourish the human population.
+		  For the world’s hungry and undernourished people, climate change is a threat multiplier.</p><section class="hero cover image_bg" id="top"> <header> 
+		  <h1 class="with-bg">Climate Change and Hunger</h1> &nbsp; <h2>&nbsp;<br></h2> <br> <a href="#top-of-page"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;
+		  </span></a></header> <div class="dateauthor">By <a href="#about-author" style="display:inline;">Rupa Mukerji</a>,<br> Helvetas<br> October 2019</div> 
+		  <button class="fadeandscale_open info">About image</button> <div class="zanah" id="fadeandscale">Photo: Welthungerhilfe/Andy Spyra 2017; 
+		  A storm strikes on the island of Buthony, Unity State, South Sudan. The country’s problems with hunger due to prolonged conflict and displacement are 
+		  exacerbated by severe recurring droughts and extreme rainy seasons. <a class="fadeandscale_close">Hide</a></div> </section> ]]>
+		</summary>
+		<author>
+		<name>Ethical Sector</name>
+		</author>
+		<link rel="enclosure" href="https://www.globalhungerindex.org/media/images/articles/essay_thumb.jpg" length="7313" type="image/jpeg"/>
+	</entry>
+
+	<entry>
+		<title>
+		<![CDATA[ No, It’s Not a Murder of Crows (2015) ]]>
+		</title>
+		<link href="https://www.audubon.org/news/no-its-not-actually-murder-crows" rel="alternate"/>
+		<author>
+		<name>tosh</name>
+		</author>
+		<content type="html">
+		<![CDATA[ <p>Article URL: <a href="https://www.audubon.org/news/no-its-not-actually-murder-crows">https://www.audubon.org/news/no-its-not-actually-murder-crows</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=24682703">https://news.ycombinator.com/item?id=24682703</a></p> <p>Points: 3</p> <p># Comments: 1</p> ]]>
+		</content>
+		<updated>2020-10-04T22:18:27Z</updated>
+		<published>2020-10-04T22:18:27Z</published>
+		<id>https://news.ycombinator.com/item?id=24682703</id>
+	</entry>
+
+	<entry>
+		<title type="html"><![CDATA[Flash Commentary No. 1448]]></title>
+		<link rel="alternate" type="text/html" href="http://www.shadowstats.com/article/csbf1448" />
+		<id>http://www.shadowstats.com/article/csbf1448</id>
+		<updated>2020-09-14T18:59:41Z</updated>
+		<published>2020-09-14T16:59:41Z</published>
+		<category scheme="http://www.shadowstats.com" term="Commentaries" />		<summary type="html">(SGS Subscription required.) <![CDATA[&#8226; Evolving, “L”-Shaped Economic Recovery Confirmed by Latest, Consistent Reporting of New Claims for Unemployment Insurance 
+		&#8226; August 2020 CPI and PPI Core Inflation Continued to Spike 
+		&#8226; Record Annual Money Supply Growth Foreshadows Higher Inflation 
+		&#8226; While Record Money Growth Appears to Be Topping, the Leading-Relationship Federal Reserve Monetary Base Annual Growth Is Surging Anew 
+		&#8226; Pending FOMC Could Look to Accelerate Already Record Money Supply Growth and the Pickup in Core Inflation 
+		&#8226; Broader Money Measures Should Resume Annual Expansion in September/October With Inflation Accelerating Sharply in Early 2021 
+		]]></summary>
+	</entry>
+
+	<entry>
+		<id>yt:video:vHdoC4YclAQ</id>
+		<title>The Worst Fall Guys Player on Twitch</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=vHdoC4YclAQ"/>
+		<author>
+		<name>2ndJerma</name>
+		<uri>https://www.youtube.com/channel/UCL7DDQWP6x7wy0O6L5ZIgxg</uri>
+		</author>
+		<published>2020-09-30T18:30:03+00:00</published>
+		<updated>2020-10-02T07:41:49+00:00</updated>
+	</entry>
+ 
+</feed>
+
+
+

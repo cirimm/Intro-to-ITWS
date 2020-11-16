@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Matthew's RSS Feed</title>
+	<description>This is an RSS feed for Matthew's ITWS course</description>
+	<link>
+https://afsws.rpi.edu/AFS/home/95/cirimm/public_html/iit/ITWS1100-F20-W3C2-Lab3-Website/index.html</link>
+	<lastBuildDate>Sun, 4 Oct 2020 00:04:00 +0000 </lastBuildDate>
+	<pubDate>Tue, 12 Oct 2010 00:01:00 +0000 </pubDate>
+ 
+	<item>
+		<title>Masks</title>
+		<link>https://xkcd.com/2367/</link>
+		<description>Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin 
+		score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.</description>
+		<pubDate>Fri, 02 Oct 2020 04:00:00 -0000</pubDate>
+		<guid>https://xkcd.com/2367/</guid>
+	</item>
+
+	<item>
+		<title>1214: And the Squishier Ones&#44; Too</title>
+		<link>http://www.giantitp.com/comics/oots1214.html</link>
+  		<description>http://www.giantitp.com/comics/oots1214.html</description>
+		<guid>http://www.giantitp.com/comics/oots1214.html</guid>
+	</item>
+	
+	<item>
+		<title>The Best Menstrual Products (2020): Period Underwear, Cups, Pads, Etc</title>
+		<link>https://www.wired.com/story/best-menstrual-products</link>
+		<guid isPermaLink="false">5f5fd35f470e71528f4f882b</guid>
+		<pubDate>Sun, 04 Oct 2020 13:00:00 +0000</pubDate>
+		<description>If you’re spending more time at home, here are some budget- and eco-friendly products—like a cup, period underwear, or reusable pads—to explore.</description>
+		<category>Gear</category>
+		<category>Gear / Buying Guides</category>
+		<category>Gear / Products / Health and Fitness</category>
+	</item>
+
+	<item>
+		<title>He&#8217;s got a type</title>
+		<link>https://thepunchlineismachismo.com/archives/comic/hes-got-a-type</link>
+		<comments>https://thepunchlineismachismo.com/archives/comic/hes-got-a-type#comments</comments>
+		<pubDate>Sun, 27 May 2018 09:53:30 +0000</pubDate>
+		
+		<guid isPermaLink="false">http://thepunchlineismachismo.com/?post_type=comic&#038;p=3314</guid>
+		<description><![CDATA[<p><a href="https://thepunchlineismachismo.com/archives/comic/hes-got-a-type" rel="bookmark" title="He&#8217;s got a type"></a>
+			</p>Sorry the updates have been kind of erratic lately, I&#8217;m in the process of redecorating my house and with how thin I&#8217;ve 
+			been spread between work and the gym and a couple zine projects I&#8217;ve been working on all that [&#8230;] <a class="more-link" 
+			href="https://thepunchlineismachismo.com/archives/comic/hes-got-a-type">&#8595; Read the rest of this entry...</a>]]></description>
+		
+	</item>
+
+	<item>
+		<title><![CDATA[ Elderly and Homeless: America’s Next Housing Crisis ]]></title>
+		<description><![CDATA[ <p>Article URL: <a href="https://www.nytimes.com/2020/09/30/magazine/homeless-seniors-elderly.html">https://www.nytimes.com/2020/09/30/magazine/homeless-seniors-elderly.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=24682747">https://news.ycombinator.com/item?id=24682747</a></p> <p>Points: 16</p> <p># Comments: 0</p> ]]></description>
+		<pubDate>Sun, 04 Oct 2020 22:24:38 +0000</pubDate>
+		<link>https://www.nytimes.com/2020/09/30/magazine/homeless-seniors-elderly.html</link>
+		<comments>https://news.ycombinator.com/item?id=24682747</comments>
+		<guid isPermaLink="false">https://news.ycombinator.com/item?id=24682747</guid>
+	</item>
+ 
+</channel>
+</rss>
+

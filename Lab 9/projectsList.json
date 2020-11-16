@@ -1,0 +1,29 @@
+{
+    "projects":[
+        {
+            "projectName": "Resume",
+            "projectDesc": "My first website-based project in the Intro to ITWS course was writing up my resume using HTML and CSS.",
+            "projectLink": "lab2.html",
+            "projectSkills": "HTML, CSS"
+        },
+        {
+            "projectName": "RSS Feeds",
+            "projectDesc": "My experimentation with RSS and Atom feeds. ",
+            "projectLink": "lab4.html",
+            "projectSkills": "XML"
+        },
+        {
+            "projectName": "JavaScript Intro",
+            "projectDesc": "An introduction to JavaScript",
+            "projectLink": "lab5.html",
+            "projectSkills": "JavaScript"
+        },
+        {
+            "projectName": "jQuery Intro",
+            "projectDesc": "An introduction to jQuery",
+            "projectLink": "lab6.html",
+            "projectSkills": "jQuery"
+        }
+
+    ]
+}

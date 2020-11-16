@@ -1,0 +1,32 @@
+{
+    "readme":[
+        {
+            "link": "Resources/README.txt"
+
+        }
+
+    ], 
+    "fonts": [
+        {
+            "name": "Piazzola",
+            "src": "Google Fonts"
+        }
+
+    ],
+    "images": [
+        {
+            "name": "snow.jpeg"
+        },
+        {
+            "name": "snowbackground.jpg"
+        },
+        {
+            "name": "external-link.png"
+        },
+        {
+            "name": "login.png"
+        }
+    ]
+
+
+}
